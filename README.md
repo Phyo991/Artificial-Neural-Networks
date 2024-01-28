@@ -50,7 +50,9 @@ In a neural network, if the weighted sum of inputs (the sum after applying weigh
 
 The sigmoid function, often called an activation function, determines whether the neuron should be 'activated' or not. In simple terms, it decides if the neuron should pass its information forward or not. This concept of 'activation' helps the network make decisions, like whether to process or ignore certain data. If a neural network doesn't use a sigmoid or any other non-linear activation function, this neural network is just a linear regression model. 
 
-You can find the practical exercises in the file named 'Forward_Propagation.ipynb
+You can find the practical exercises in the file named 'Forward_Propagation.ipynb, But in this lab , it is just simple calculation . 
+Obviously, neural networks for real problems are composed of many hidden layers and many more nodes in each layer. So, we can't continue making predictions using this very inefficient approach of computing the weighted sum at each node and the activation of each node manually.
+So, let's see 'Forward_Propagation_1.ipynb" 
 
 
 
