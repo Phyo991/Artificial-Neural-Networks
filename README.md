@@ -1,4 +1,4 @@
-![IMG_9366](https://github.com/Phyo991/Artificial-Neural-Networks/assets/142148113/22e66654-0735-403a-b38c-4ad2ab5c8096)# Artificial-Neural-Networks
+# Artificial-Neural-Networks
 
 This exercise is from coursera that practice Forward Propagation to understand neural network and how they work even better. 
 
